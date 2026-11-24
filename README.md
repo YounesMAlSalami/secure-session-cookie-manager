@@ -1,4 +1,4 @@
-# Assignment 13 — Secure Session and Cookie Management
+# Secure Session and Cookie Management
 
 **Author:** Younes Al-Salami  
 **Track:** Cybersecurity Programming Bootcamp  
